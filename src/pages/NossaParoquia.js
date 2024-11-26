@@ -6,17 +6,13 @@ const App = () => {
     <div className="container mt-5">
       <div className="row">
         <div className="col-12 col-md-4">
-          <div className="card text-center">
-            <div className="card-header">
+          <div className="card text-center p-3">
               <img 
                 src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t39.30808-1/453490345_914676044030527_5722009225405350005_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=AFGpEUcI9aUQ7kNvgFN8tMp&_nc_zt=24&_nc_ht=scontent.fcpq4-1.fna&_nc_gid=AYn78lM3YdQaboh37yUJqfB&oh=00_AYAKyCRjlNZZBHGyUrLvxHc55jLdofXsqER95_VpgG8fEg&oe=674BD8BC" 
                 alt="Logo"
-                className="rounded-circle" 
-                width="100" 
-                height="100" 
+                className="rounded-circle"
               />
               <h5 className="card-title mt-2">Pascom São Francisco De Assis - SBO</h5>
-            </div>
             <div className="card-body">
               <p className="card-text">
                 <b>Paróquia São Francisco de Assis</b> <br />
